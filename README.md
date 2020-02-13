@@ -4,7 +4,7 @@ Build a timer app.  Your app should have the following components:
 
 ## Set Timer View Controller
 
-- A spinner to select how long the timer should run for
+- A UIDatePicker to select how long the timer should run for
 - A text field where a message can be inserted
 - A button to launch the timer
 
